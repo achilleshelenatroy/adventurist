@@ -1,0 +1,6 @@
+whoami
+
+date
+
+df
+
