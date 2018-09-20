@@ -1,6 +1,6 @@
 shell.c - 1994
 
-whoiam.c - 97
+whoami.c - 97
 
 date.c - 603
 
