@@ -1,0 +1,6 @@
+cd 
+
+cat .bashrc
+
+clear
+
